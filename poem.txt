@@ -3,6 +3,8 @@ The Rainbox and the Unicorn and The Pony
 Purple
 Pink
 Orange
+Red
+Blue	
 Blue
 Green
 Indigo
